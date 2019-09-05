@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">This Is Your Mail</string>
+    <string name="abre_archivo">Usa esta app para abrir un archivo adjunto en algún correo de Gmail</string>
+    <string name="abrir_gmail">Abrir Gmail?</string>
+    <string name="este_es_tu_correo">Este es tu correo</string>
+    <string name="app_creada_por">App creada por</string>
+    <string name="para">para</string>
+    <string name="abrir_archivo">Abrir archivo sin compartir mi correo</string>
+    <string name="se_ha_recibido">Se ha recibido:</string>
+    <string name="no_encontrado_correo">Y no se ha detectado ningún correo</string>
+
+</resources>
